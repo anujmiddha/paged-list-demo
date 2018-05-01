@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagedListDemo</string>
+    <string name="contacts_empty">No contacts found</string>
+</resources>
